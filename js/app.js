@@ -18,7 +18,9 @@
  * 
 */
 
-
+const sections = document.querySelectorAll('section');
+const fragment = document.createDocumentFragment();
+const navBar = document.querySelector('#navbar__list')
 /**
  * End Global Variables
  * Start Helper Functions
@@ -34,7 +36,13 @@
 */
 
 // build the nav
-
+sections.forEach((section) => {
+    const navItemName = section.getAttribute('data-nav');
+    const navItem = document.createElement('li');
+    navItem.innerText = navItemName;
+    fragment.appendChild(navItem);
+})
+navBar.appendChild(fragment);
 
 // Add class 'active' to section when near top of viewport
 
