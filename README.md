@@ -1,21 +1,38 @@
- Landing Page Project
+# Landing Page Project
 
-## Table of Contents
+> This project is part of Udacity Professional web development Nano degree
 
-* [Instructions](#instructions)
-* [description](#description)
-* [technologies used](#technologiesused)
-## Instructions
+## Technologies used
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+- HTML, CSS, JavaScript
 
-To get started, open `js/app.js` and start building out the app's functionality
+## Live Demo 
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+- [Live demo](https://landing-page-f2c66b.netlify.app)
 
-## description
-this is a generic landing page built to implement javascript skills learnt as part of udacity web development nano degree. different functions are used to manipulate the dom and control the flow of the page. event listeners are introduced to react to different events triggered by user such as clicking or scrolling, navigation bar is created using javascript only (no html script is written).
+## Description
+this is a generic landing page built to implement javascript skills learnt as part of udacity web development nano degree. Different functions are used to manipulate the dom and control the flow of the page. Event listeners are introduced to react to different events triggered by user such as clicking or scrolling, navigation bar is created using javascript only (ie: no html script is written).
 
-## technologies used
+## Getting Started
+You can download the page by clicking the code button and select Download ZIP or if you are a developer you can copy https link and use your favorite command line git interface and write `git clone [https link] ` 
 
-html, css, javascript 
+## Author
+
+👤 **Amr Mamdouh**
+
+- GitHub: [@amrmoussa17](https://github.com/amrmoussa17)
+- LinkedIn: [amr-mamdouh-988123125](https://www.linkedin.com/in/amr-mamdouh-988123125)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
